@@ -1,4 +1,4 @@
-1304636019
+1304873161
 Application	/home/kage/prog-ruby-rails/first_app/config/application.rb	  class Application 
 ApplicationController	/home/kage/prog-ruby-rails/first_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/kage/prog-ruby-rails/first_app/app/helpers/application_helper.rb	module ApplicationHelper
